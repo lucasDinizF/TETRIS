@@ -1,0 +1,10 @@
+gilson,999999
+lucas,29524
+braule,25569
+guilherme,22697
+lucas,17703
+null,4683
+braule,3897
+Gilson,2470
+lucas,190
+k,59
